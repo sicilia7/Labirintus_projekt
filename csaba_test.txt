@@ -1,0 +1,3 @@
+Sziasztok,
+
+Nekem sikerult beloni a git-et.

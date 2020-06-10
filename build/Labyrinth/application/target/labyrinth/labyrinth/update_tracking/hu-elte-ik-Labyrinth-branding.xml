@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="hu.elte.ik.Labyrinth.branding">
+    <module_version install_time="1495403491426" last="true" origin="installer" specification_version="1.0">
+        <file crc="3365482947" name="config/Modules/hu-elte-ik-Labyrinth-branding.xml"/>
+        <file crc="2133432931" name="core/locale/core_labyrinth.jar"/>
+        <file crc="3560867203" name="modules/hu-elte-ik-Labyrinth-branding.jar"/>
+        <file crc="1377407629" name="modules/locale/org-netbeans-core-windows_labyrinth.jar"/>
+        <file crc="3256133099" name="modules/locale/org-netbeans-core_labyrinth.jar"/>
+        <file crc="1382280002" name="update_tracking/hu-elte-ik-Labyrinth-branding.xml"/>
+    </module_version>
+</module>
